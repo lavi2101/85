@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+}
+
+input{
+    margin:10px;
+    background-color: aquamarine;
+    color: aqua;
+    border-radius: 25px;
+    text-align: center;
+}
+
+#submitButton{
+    margin-top: 20px; 
+    margin-bottom: 20px;
+    background-color: aliceblue;
+    color: blue;
+}
+
+#DisplayNameWithCommas{
+    border: 1px solid rebeccapurple;
+    padding: 10px;
+    background-color: slateblue;
+    border-radius: 10px;
+    width: 50%;
+    margin: 0px auto;
+}
+
+#DisplayNameWithoutCommas{
+    border: 1px solid rgb(99, 0, 0);
+    padding: 10px;
+    background-color: rgb(255, 77, 77);
+    border-radius: 10px;
+    width: 50%;
+    margin: 0px auto;
+}
